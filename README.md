@@ -5,12 +5,12 @@ Aplicación de Python (modelos de regresión lineal y random forest), en un cuad
 Lucas Vélez Vélez
 
 # Librerías
-pandas	
-numpy	
-matplotlib / seaborn	
-sklearn	Modelado, 
-google.colab (opcional)
+- pandas	
+- numpy
+- matplotlib / seaborn	
+- sklearn	Modelado, 
+- google.colab (opcional)
 
 # Modelos Utilizados
-Regresión Lineal
-Random Forest
+- Regresión Lineal
+- Random Forest
